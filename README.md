@@ -1,70 +1,80 @@
-# 👋 Hi there! I'm Pinakesh Chattopadhyay
+# 🌈 Pinakesh Chattopadhyay | Tech Innovator
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pinakesh%20Chattopadhyay&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile Header"/>
 </div>
 
-## 🌟 About Me
+## 🚀 Who Am I?
 
-I'm a passionate **Computer Science student** at V.I.T. Bhopal University, driven by curiosity and a commitment to creating impactful technological solutions. My journey in tech is fueled by an insatiable desire to learn, innovate, and solve complex problems.
+> A **passionate Computer Science explorer** weaving technology and creativity at V.I.T. Bhopal University. My code is my canvas, problems are my paintbrush!
 
-### 🔍 Current Focus
-- 🚀 Developing an AI-based Surveillance System
-- 🌱 Mastering **Advanced React** and **Next.js**
-- 👥 Seeking collaboration on **Open Source Projects**
-- 💬 Specialized in **Full Stack Development**
-
-## 💻 Tech Stack
+### 🔮 Tech Constellation
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,mysql,git,github,html,css&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,mysql,git,github,html,css&theme=light" alt="Tech Universe" height="70"/>
 </div>
 
-## 🏆 Highlighted Projects
+## 💡 Current Adventures
 
-### 1. SEE-curity: AI-based Surveillance System
-<img src="https://media1.giphy.com/media/KszkcokOMwO6s2aJ99/200w.gif" width="300" align="right" alt="SEE-curity Demo">
+- 🧠 **AI Surveillance System**: Pushing boundaries of intelligent monitoring
+- 🌱 **Learning Journey**: Diving deep into React and Next.js
+- 🤝 **Open Source**: Seeking collaborative tech missions
 
+## 🏆 Project Galaxies
+
+### 1. SEE-curity: AI Surveillance Odyssey
+<div align="center">
+  <img src="https://media1.giphy.com/media/KszkcokOMwO6s2aJ99/200w.gif" width="300" alt="SEE-curity Demo"/>
+</div>
+
+**Mission Specs:**
+- 70% human detection accuracy 
+- Real-time video optimization
+- Automated smart notifications
+- Responsive React ecosystem
+
+[🔍 Explore Project](https://github.com/Pinakesh2703/Survellience-Footage-Optimization)
+
+### 2. Sorting Visualizer: Algorithmic Art
+**Creative Highlights:**
+- Real-time sorting choreography
+- Interactive algorithm ballet
+- Educational visual storytelling
+
+[🎨 View Visualizer](https://github.com/Pinakesh2703/sorting_visualizer)
+
+### 3. ForecastFlow: Weather Storyteller
 **Innovative Features:**
-- 🧠 **COCO-SSD Model** with 70% human detection accuracy
-- 🎥 Optimized real-time video processing
-- 🔔 Automated notifications via **EmailJS**
-- 🌐 Responsive **React** & **TailwindCSS** frontend
+- Live meteorological narratives
+- Interactive geographical insights
+- Real-time environmental data
 
-[🔗 Project Repository](https://github.com/Pinakesh2703/Survellience-Footage-Optimization)
+[🌦️ Check Weather App](https://github.com/Pinakesh2703/ForecastFlow)
 
-### 2. Sorting Visualizer
-**Key Highlights:**
-- 📊 Real-time visualization of 5 sorting algorithms
-- 🎨 Dynamic, educational animations
-
-[🔗 Project Repository](https://github.com/Pinakesh2703/sorting_visualizer)
-
-### 3. ForecastFlow: Weather Application
-**Standout Features:**
-- 🌦️ Real-time weather data from **OpenWeatherMap API**
-- 🗺️ Interactive mapping with **Leaflet.js**
-
-[🔗 Project Repository](https://github.com/Pinakesh2703/ForecastFlow)
-
-## 🤝 Connect With Me
+## 🌐 Digital Coordinates
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pinakesh-vitb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PinakeshCrafts" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:pinakesh.chatto2016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" alt="Connection"/>
   
-  **Let's connect and create something amazing together! 🚀**
+  **Crafting digital dreams, one line of code at a time** 🌟
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=PinakeshCrafts&color=blueviolet)
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
