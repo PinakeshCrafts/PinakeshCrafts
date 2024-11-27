@@ -1,5 +1,3 @@
-# 🌈 Pinakesh Chattopadhyay | Tech Innovator
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pinakesh%20Chattopadhyay&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile Header"/>
 </div>
@@ -20,36 +18,35 @@
 - 🌱 **Learning Journey**: Diving deep into React and Next.js
 - 🤝 **Open Source**: Seeking collaborative tech missions
 
-## 🏆 Project Galaxies
+## 🏆 Featured Projects
 
-### 1. SEE-curity: AI Surveillance Odyssey
-<div align="center">
-  <img src="https://media1.giphy.com/media/KszkcokOMwO6s2aJ99/200w.gif" width="300" alt="SEE-curity Demo"/>
-</div>
+### 4.1 SEE-curity: AI-based Surveillance System
 
-**Mission Specs:**
-- 70% human detection accuracy 
-- Real-time video optimization
-- Automated smart notifications
-- Responsive React ecosystem
+<img src="https://media1.giphy.com/media/KszkcokOMwO6s2aJ99/200w.gif" width="300" align="right" alt="SEE-curity Demo">
 
-[🔍 Explore Project](https://github.com/Pinakesh2703/Survellience-Footage-Optimization)
+**Project Highlights:**
+- 🧠 Developed using **COCO-SSD Model** with 70% accuracy in human detection
+- 🎥 Real-time video processing reducing storage by 75%
+- 🔔 Integrated **EmailJS** for automated notifications
+- 🌐 Responsive frontend with **React** and **TailwindCSS**
 
-### 2. Sorting Visualizer: Algorithmic Art
-**Creative Highlights:**
-- Real-time sorting choreography
-- Interactive algorithm ballet
-- Educational visual storytelling
+[![SEE-curity](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Pinakesh2703/Survellience-Footage-Optimization)
 
-[🎨 View Visualizer](https://github.com/Pinakesh2703/sorting_visualizer)
+### 4.2 Sorting Visualizer
 
-### 3. ForecastFlow: Weather Storyteller
-**Innovative Features:**
-- Live meteorological narratives
-- Interactive geographical insights
-- Real-time environmental data
+**Project Features:**
+- 📊 Visualize 5 different sorting algorithms in real-time
+- 🎨 Dynamic animations to understand algorithm efficiency
 
-[🌦️ Check Weather App](https://github.com/Pinakesh2703/ForecastFlow)
+[![Sorting Visualizer](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Pinakesh2703/sorting_visualizer)
+
+### 4.3 ForecastFlow: Weather Application
+
+**Key Capabilities:**
+- 🌦️ Real-time weather data using **OpenWeatherMap API**
+- 🗺️ Interactive maps with **Leaflet.js**
+
+[![ForecastFlow](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Pinakesh2703/ForecastFlow)
 
 ## 🌐 Digital Coordinates
 
